@@ -53,10 +53,5 @@ This project was implemented using Google Colab as part of a student mini-projec
 7. Predictive System for New Input
 
 
-## ▶️ How to Run the Project
-1. Clone the repository:
-   ```bash
-
-
 ## Author
 Disha Roy
